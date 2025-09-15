@@ -7,13 +7,13 @@
  public class Program
  {
      //Update the blobServiceEndpoint value that you recorded previously in this lab.        
-     private const string blobServiceEndpoint = "https://mediastor20252.blob.core.windows.net/";
+     private const string blobServiceEndpoint = "";
 
      //Update the storageAccountName value that you recorded previously in this lab.
-     private const string storageAccountName = "mediastor20252";
+     private const string storageAccountName = "";
 
      //Update the storageAccountKey value that you recorded previously in this lab.
-     private const string storageAccountKey = "NlOF1BhqxqhVtS/bhTjtMvScMZGJK1LSic1FVev8m+eLJW7uyPCI1btdX1oVchYtko0DKujX/l4f+AStOLo3/g==";
+     private const string storageAccountKey = "";
  
 
 
