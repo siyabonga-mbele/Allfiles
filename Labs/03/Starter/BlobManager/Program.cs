@@ -10,10 +10,10 @@
      private const string blobServiceEndpoint = "";
 
      //Update the storageAccountName value that you recorded previously in this lab.
-     private const string storageAccountName = "";
+     private const string Name = "";
 
      //Update the storageAccountKey value that you recorded previously in this lab.
-     private const string storageAccountKey = "";
+     private const string  = "";
  
 
 
